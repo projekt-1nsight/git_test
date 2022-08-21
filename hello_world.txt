@@ -1,2 +1,6 @@
 Hello World! I'm practicing the Git Basics lesson
 on the Foundations part of the Odin Project!
+
+
+Trying out the git commit option without the
+-m flag to see if it works.
