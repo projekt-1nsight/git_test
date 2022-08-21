@@ -1,0 +1,2 @@
+Hello World! I'm practicing the Git Basics lesson
+on the Foundations part of the Odin Project!
